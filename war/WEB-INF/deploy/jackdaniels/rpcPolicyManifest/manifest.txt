@@ -1,0 +1,3 @@
+# Module jackdaniels
+# RPC service class, partial path of RPC policy file
+ssk.project.jackdaniels.client.GreetingService, 1CA20BAAA6294FA28C59378D4C86A860.gwt.rpc

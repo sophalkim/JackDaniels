@@ -1,0 +1,2 @@
+serviceClass: ssk.project.jackdaniels.client.GreetingService
+path: 1CA20BAAA6294FA28C59378D4C86A860.gwt.rpc
